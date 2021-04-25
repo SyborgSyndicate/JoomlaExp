@@ -1,4 +1,4 @@
-## ExploitJoomla/JoomlaScan
+# ExploitJoomla/Scanner
 ### 🚀Made in python version 2
 
 ### Usage⚡
